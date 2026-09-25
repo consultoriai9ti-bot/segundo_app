@@ -1,7 +1,5 @@
-Aqui está a solução completa, estruturada de forma limpa e modular. Seguindo a filosofia de Vibe Coding, o código é enxuto, legível e aproveita os componentes nativos do Streamlit para manter a aplicação leve e rápida.
 
-1. Código Completo: app.py
-Python
+
 import pandas as pd
 import streamlit as st
 
